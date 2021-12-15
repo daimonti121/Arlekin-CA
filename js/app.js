@@ -209,7 +209,7 @@ $('.btn-1').click(function(){
 })
 
 $('.btn-2').click(function(){
-  window.location.href = 'https://www.arlekincasino.com/users/sign_up';
+  window.location.href = 'https://www.arlekincasino.com/en-CA/users/sign_up';
 })
 
 function $_GET(e,t){return!!(t=t.match(new RegExp(e+"=([^&=]+)")))&&t[1]}
